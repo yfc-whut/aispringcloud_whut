@@ -1,0 +1,25 @@
+server:
+  port: 8010
+spring:
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled: true
+  application:
+    name: order
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/orderingsystem?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    instance-id: order-8010
+    prefer-ip-address: true
+mybatis:
+  mapper-locations: classpath:/mybatis/*.xml
+  type-aliases-package: com.snowy.southwind.bean

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aispringcloud-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/allclient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/allzuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/menu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/src/main/java" charset="UTF-8" />
+  </component>
+</project>

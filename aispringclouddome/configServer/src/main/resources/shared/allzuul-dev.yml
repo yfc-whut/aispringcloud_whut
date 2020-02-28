@@ -1,0 +1,24 @@
+server:
+  port: 8060
+spring:
+  application:
+    name: allzuul
+eureka:
+  instance:
+    instance-id: allzuul-8060
+    prefer-ip-address: true
+  client:
+    lease-renewal-interval-in-seconds: 5
+    lease-expiration-duration-in-seconds: 10
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+
+zuul:
+  routes:
+#    eureka-ribbon: #对应服务名称,可以自定义（最好保持一致）
+#      path: /ribbon/*
+#      serviceId: eureka-ribbon #对应服务名称
+    eureka-feign:
+      path: /Takeaway/*
+      serviceId: allclient #对应服务名称

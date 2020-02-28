@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79a643c4-fe06-44f8-8ae1-d1e21a5cd8d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="orderingsystem@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="orderingsystem@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="orderingsystem@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="orderingsystem: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\Working tools\Maven\MavenRepository" />
+        <option name="mavenHome" value="G:/Working tools/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="G:\Working tools\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WYLAznHrlSWQX4NclDy5hSc7yG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AllHystrix/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.snowy.southwind.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Workspace for all programs\idea-workspace\aispringclouddome\AllHystrix\src\main\resources" />
+      <recent name="G:\Workspace for all programs\idea-workspace\aispringclouddome\allzuul\src\main\resources" />
+      <recent name="G:\Workspace for all programs\idea-workspace\aispringclouddome\allclient\src\main\resources" />
+      <recent name="G:\Workspace for all programs\idea-workspace\aispringclouddome\allclient\src\main\resources\static" />
+      <recent name="G:\Workspace for all programs\idea-workspace\aispringclouddome\order\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Workspace for all programs\idea-workspace\aispringclouddome\allclient\src\main\resources\static" />
+      <recent name="G:\Workspace for all programs\idea-workspace\aispringclouddome\configserver\src\main\resources\zhangsan" />
+      <recent name="G:\Workspace for all programs\idea-workspace\aispringclouddome\configserver\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AllZuullApplication">
+    <configuration name="AccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snowy.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.snowy.southwind.AccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="allclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snowy.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.snowy.southwind.AllClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="AllHystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snowy.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.snowy.southwind.AllHystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllZuullApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="allzuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snowy.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.snowy.southwind.AllZuullApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="configServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snowy.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.snowy.southwind.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eurekaserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snowy.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.snowy.southwind.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="menu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snowy.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.snowy.southwind.MenuApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snowy.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.snowy.southwind.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.snowy.southwind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.snowy.southwind.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AllZuullApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.AllClientApplication" />
+      <item itemvalue="Spring Boot.AccountApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.AllHystrixApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.MenuApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MenuApplication" />
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.AccountApplication" />
+        <item itemvalue="Spring Boot.AllHystrixApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.19603825" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showImplicitBeans" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79a643c4-fe06-44f8-8ae1-d1e21a5cd8d5" name="Default Changelist" comment="" />
+      <created>1578754332053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578754332053</updated>
+      <workItem from="1578754335178" duration="3955000" />
+      <workItem from="1579255132069" duration="273000" />
+      <workItem from="1579255431162" duration="11277000" />
+      <workItem from="1579320535502" duration="58000" />
+      <workItem from="1579320634796" duration="142000" />
+      <workItem from="1579320833999" duration="534000" />
+      <workItem from="1579321446139" duration="68000" />
+      <workItem from="1579321531535" duration="87000" />
+      <workItem from="1579339061009" duration="932000" />
+      <workItem from="1579340028595" duration="11665000" />
+      <workItem from="1579362328874" duration="4414000" />
+      <workItem from="1579437734006" duration="13134000" />
+      <workItem from="1579507531738" duration="1212000" />
+      <workItem from="1579524865473" duration="7239000" />
+      <workItem from="1579587389235" duration="22926000" />
+      <workItem from="1579624353417" duration="657000" />
+      <workItem from="1579785886669" duration="612000" />
+      <workItem from="1579875138113" duration="7024000" />
+      <workItem from="1580212697626" duration="538000" />
+      <workItem from="1580213820397" duration="1621000" />
+      <workItem from="1580370362721" duration="8970000" />
+      <workItem from="1580393759767" duration="6479000" />
+      <workItem from="1580452219180" duration="4117000" />
+      <workItem from="1580644370816" duration="5178000" />
+      <workItem from="1580727672987" duration="15234000" />
+      <workItem from="1580822036943" duration="13111000" />
+      <workItem from="1580903016940" duration="5500000" />
+      <workItem from="1581141660142" duration="2516000" />
+      <workItem from="1581145107468" duration="15704000" />
+      <workItem from="1581258166893" duration="6511000" />
+      <workItem from="1581343442903" duration="3443000" />
+      <workItem from="1582121100255" duration="7252000" />
+      <workItem from="1582373542828" duration="10583000" />
+      <workItem from="1582896765820" duration="964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="94" key="#Inspections" timestamp="1579444482202">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="94" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1579444482202" />
+    <state x="566" y="83" key="#Project_Structure" timestamp="1582122274946">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="566" y="83" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1582122274946" />
+    <state x="447" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581145267755">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="447" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1581145267755" />
+    <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1582382415680">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582382415680" />
+    <state x="545" y="127" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1580380125963">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="545" y="127" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1580380125963" />
+    <state x="264" y="361" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582383847452">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="264" y="361" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1582383847452" />
+    <state x="536" y="299" width="464" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581264228038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="536" y="299" width="464" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1581264228038" />
+    <state x="44" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581345935528">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="44" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1581345935528" />
+    <state x="499" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581345849941">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1581345849941" />
+    <state x="549" y="102" key="FileChooserDialogImpl" timestamp="1582384571264">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="102" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1582384571264" />
+    <state width="1176" height="207" key="GridCell.Tab.0.bottom" timestamp="1582899311369">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1176" height="207" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582899311369" />
+    <state width="1176" height="207" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1582376949822" />
+    <state width="1176" height="207" key="GridCell.Tab.0.center" timestamp="1582899311369">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1176" height="207" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582899311369" />
+    <state width="1176" height="207" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1582376949822" />
+    <state width="1176" height="207" key="GridCell.Tab.0.left" timestamp="1582899311369">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1176" height="207" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582899311369" />
+    <state width="1176" height="207" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1582376949822" />
+    <state width="1176" height="207" key="GridCell.Tab.0.right" timestamp="1582899311369">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1176" height="207" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582899311369" />
+    <state width="1176" height="207" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1582376949822" />
+    <state width="1176" height="207" key="GridCell.Tab.1.bottom" timestamp="1582899311369">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1176" height="207" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582899311369" />
+    <state width="1176" height="207" key="GridCell.Tab.1.bottom/0.40.1536.824@0.40.1536.824" timestamp="1582376949823" />
+    <state width="1176" height="207" key="GridCell.Tab.1.center" timestamp="1582899311369">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1176" height="207" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1582899311369" />
+    <state width="1176" height="207" key="GridCell.Tab.1.center/0.40.1536.824@0.40.1536.824" timestamp="1582376949823" />
+    <state width="1176" height="207" key="GridCell.Tab.1.left" timestamp="1582899311369">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1176" height="207" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1582899311369" />
+    <state width="1176" height="207" key="GridCell.Tab.1.left/0.40.1536.824@0.40.1536.824" timestamp="1582376949823" />
+    <state width="1176" height="207" key="GridCell.Tab.1.right" timestamp="1582899311369">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1176" height="207" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1582899311369" />
+    <state width="1176" height="207" key="GridCell.Tab.1.right/0.40.1536.824@0.40.1536.824" timestamp="1582376949823" />
+    <state width="1176" height="207" key="GridCell.Tab.2.bottom" timestamp="1582383237786">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1176" height="207" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582383237786" />
+    <state width="1176" height="207" key="GridCell.Tab.2.center" timestamp="1582383237784">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1176" height="207" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1582383237784" />
+    <state width="1176" height="207" key="GridCell.Tab.2.left" timestamp="1582383237784">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1176" height="207" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1582383237784" />
+    <state width="1176" height="207" key="GridCell.Tab.2.right" timestamp="1582383237784">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1176" height="207" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1582383237784" />
+    <state x="299" y="91" key="Maven.ArtifactSearchDialog" timestamp="1582384671396">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="299" y="91" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1582384671396" />
+    <state x="431" y="147" key="NewModule_or_Project.wizard" timestamp="1582384573957">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="147" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1582384573957" />
+    <state x="272" y="21" key="SettingsEditor" timestamp="1582384595335">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="272" y="21" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1582384595335" />
+    <state x="455" y="187" width="625" height="490" key="find.popup" timestamp="1579442931198">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="455" y="187" width="625" height="490" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1579442931198" />
+    <state x="178" y="49" width="1180" height="567" key="new project wizard" timestamp="1582384269933">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="49" width="1180" height="567" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1582384269933" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1580826253678">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1580826253678" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1581259665429">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1581259665429" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/menu/src/main/java/com/snowy/southwind/controller/MenuConrtroller.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/aispringcloud-api/src/main/java/com/snowy/southwind/service/downgrade/AccountDowngrade.java</url>
+          <line>26</line>
+          <properties method="adminLogin">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aispringclouddome$AllClientApplication.ic" NAME="AllClientApplication Coverage Results" MODIFIED="1580736892360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.snowy.southwind.*</FILTER>
+    </SUITE>
+  </component>
+</project>
