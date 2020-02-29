@@ -6,8 +6,8 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
 /**
- * @auther snowy
- * @date 2020/2/19 - 22:28
+ * @auther yfc
+ * @date 2021/6/19 - 22:28
  */
 @SpringBootApplication
 @EnableEurekaClient

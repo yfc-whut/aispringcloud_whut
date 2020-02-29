@@ -9,8 +9,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @auther snowy
- * @date 2020/1/19 - 23:11
+ * @auther yfc
+ * @date 2021/6/29 - 23:11
  */
 @Controller
 @RequestMapping("/menu")

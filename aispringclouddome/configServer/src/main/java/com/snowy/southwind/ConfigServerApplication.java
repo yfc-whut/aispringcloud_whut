@@ -6,8 +6,8 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 /**
- * @auther snowy
- * @date 2020/1/18 - 17:38
+ * @auther yfc
+ * @date 2021/6/18 - 17:38
  */
 @SpringBootApplication
 @EnableEurekaClient

@@ -8,8 +8,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @auther snowy
- * @date 2020/1/30 - 22:30
+ * @auther yfc
+ * @date 2021/6/29 - 22:30
  */
 @Controller
 @RequestMapping("/user")

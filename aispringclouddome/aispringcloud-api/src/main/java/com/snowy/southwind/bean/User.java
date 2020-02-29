@@ -5,8 +5,8 @@ import lombok.Data;
 import java.util.Date;
 
 /**
- * @auther snowy
- * @date 2020/1/30 - 15:50
+ * @auther yfc
+ * @date 2021/6/25 - 15:50
  */
 @Data
 public class User {

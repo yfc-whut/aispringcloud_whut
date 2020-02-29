@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * @auther snowy
- * @date 2020/1/18 - 22:18
+ * @auther yfc
+ * @date 2021/6/27 - 22:18
  */
 @RestController
 @RequestMapping("/menu")
@@ -35,7 +35,7 @@ public class MenuConrtroller {
         return menuMapper.count();
     }
 
-    /*删除meno某个菜品*/
+    /*删除menu某个菜品*/
     @DeleteMapping("/deleteById/{id}")
     public void deleteById(@PathVariable("id")Integer id){
         menuMapper.deleteById(id);

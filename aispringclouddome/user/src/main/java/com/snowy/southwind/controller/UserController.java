@@ -9,8 +9,8 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @auther snowy
- * @date 2020/1/30 - 16:02
+ * @auther yfc
+ * @date 2021/6/29 - 16:02
  */
 @RestController
 @RequestMapping("/user")

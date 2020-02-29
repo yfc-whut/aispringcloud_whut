@@ -3,8 +3,8 @@ package com.snowy.southwind.bean;
 import lombok.Data;
 
 /**
- * @auther snowy
- * @date 2020/1/20 - 21:35
+ * @auther yfc
+ * @date 2021/6/226- 21:35
  */
 @Data
 public class Type {

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eurekaserver" />
+        <module name="allzuul" />
+        <module name="aispringcloud-api" />
+        <module name="configServer" />
+        <module name="allclient" />
+        <module name="menu" />
+        <module name="user" />
+        <module name="account" />
+        <module name="order" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="account" target="1.8" />
+      <module name="aispringcloud-api" target="1.8" />
+      <module name="aispringclouddome" target="1.8" />
+      <module name="allclient" target="1.8" />
+      <module name="allzuul" target="1.8" />
+      <module name="configServer" target="1.8" />
+      <module name="eurekaserver" target="1.8" />
+      <module name="menu" target="1.8" />
+      <module name="order" target="1.8" />
+      <module name="user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="account" options="-parameters" />
+      <module name="aispringcloud-api" options="-parameters" />
+      <module name="allclient" options="-parameters" />
+      <module name="allzuul" options="-parameters" />
+      <module name="configServer" options="-parameters" />
+      <module name="eurekaserver" options="-parameters" />
+      <module name="menu" options="-parameters" />
+      <module name="order" options="-parameters" />
+      <module name="user" options="-parameters" />
+    </option>
+  </component>
+</project>

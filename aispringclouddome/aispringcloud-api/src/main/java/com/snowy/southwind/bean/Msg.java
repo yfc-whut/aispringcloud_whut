@@ -4,8 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @auther snowy
- * @date 2020/1/21 - 21:39
+ * @auther yfc
+ * @date 2021/6/22  - 21:39
  */
 /*json通用返回类*/
 public class Msg {

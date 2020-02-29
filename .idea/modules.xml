@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aispringclouddome/account/account.iml" filepath="$PROJECT_DIR$/aispringclouddome/account/account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringclouddome/aispringcloud-api/aispringcloud-api.iml" filepath="$PROJECT_DIR$/aispringclouddome/aispringcloud-api/aispringcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringclouddome/aispringclouddome.iml" filepath="$PROJECT_DIR$/aispringclouddome/aispringclouddome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringclouddome/allclient/allclient.iml" filepath="$PROJECT_DIR$/aispringclouddome/allclient/allclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringclouddome/allzuul/allzuul.iml" filepath="$PROJECT_DIR$/aispringclouddome/allzuul/allzuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringclouddome/configServer/configServer.iml" filepath="$PROJECT_DIR$/aispringclouddome/configServer/configServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringclouddome/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/aispringclouddome/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringclouddome/menu/menu.iml" filepath="$PROJECT_DIR$/aispringclouddome/menu/menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringclouddome/order/order.iml" filepath="$PROJECT_DIR$/aispringclouddome/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud_whut.iml" filepath="$PROJECT_DIR$/.idea/springcloud_whut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringclouddome/user/user.iml" filepath="$PROJECT_DIR$/aispringclouddome/user/user.iml" />
+    </modules>
+  </component>
+</project>

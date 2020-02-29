@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpSession;
 
 /**
- * @auther snowy
- * @date 2020/2/3 - 20:26
+ * @auther yfc
+ * @date 2021/6/29 - 20:26
  */
 @Controller
 @RequestMapping("/account")

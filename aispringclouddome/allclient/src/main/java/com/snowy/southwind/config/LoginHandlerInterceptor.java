@@ -7,8 +7,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @auther snowy
- * @date 2020/2/9 - 23:29
+ * @auther yfc
+ * @date 2021/6/23  - 23:29
  */
 @Component
 public class LoginHandlerInterceptor implements HandlerInterceptor {

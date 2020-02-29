@@ -8,8 +8,8 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import javax.annotation.Resource;
 
 /**
- * @auther snowy
- * @date 2020/1/19 - 23:30
+ * @auther yfc
+ * @date 2021/6/23  - 23:30
  */
 @Configuration
 public class WebMvcConfig implements WebMvcConfigurer {
